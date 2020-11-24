@@ -3,5 +3,47 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W5926
   title: གསུང་འབུམ། ངག་དབང་དཔལ་ལྡན
-  volume: ''
+  volume:
+    a64605a4134d4ed182f454a690088cce:
+      image_group_id: I3827
+      title: ''
+      volume_number: 1
+      total_pages: 658
+    d4fb421255dc4c0ba49cb9788bdaddda:
+      image_group_id: I3828
+      title: ''
+      volume_number: 2
+      total_pages: 622
+    3582b04c2f444e2c96beae105bb486bc:
+      image_group_id: I3829
+      title: ''
+      volume_number: 3
+      total_pages: 606
+    c08b736319c14c83a472f0fa22cedf4e:
+      image_group_id: I3830
+      title: ''
+      volume_number: 4
+      total_pages: 714
+    675fa77b5559428f83929e59c6f1ad30:
+      image_group_id: I3831
+      title: ''
+      volume_number: 5
+      total_pages: 644
+    6d1e94a52a084c20a5d75e4399234182:
+      image_group_id: I3832
+      title: ''
+      volume_number: 6
+      total_pages: 706
+    00b9b57bd27f4179af2e224e7d01fd51:
+      image_group_id: I3833
+      title: ''
+      volume_number: 7
+      total_pages: 748
   author: ''
+ebook_metadata:
+  title: གསུང་འབུམ། ངག་དབང་དཔལ་ལྡན
+  author: ''
+  sku: P007131
+  cover: cover.jpg
+  layers:
+  - pagination
