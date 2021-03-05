@@ -1,9 +1,10 @@
-id: opecha:P007131
+id: P007131
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W5926
   title: གསུང་འབུམ། ངག་དབང་དཔལ་ལྡན
-  volume:
+  author: ''
+  volumes:
     a64605a4134d4ed182f454a690088cce:
       image_group_id: I3827
       title: ''
@@ -39,7 +40,6 @@ source_metadata:
       title: ''
       volume_number: 7
       total_pages: 748
-  author: ''
 ebook_metadata:
   title: གསུང་འབུམ། ངག་དབང་དཔལ་ལྡན
   author: ''
