@@ -1,5 +1,7 @@
 id: P007131
 initial_creation_type: ocr
+created_at: 1/04/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W5926
   title: གསུང་འབུམ། ངག་དབང་དཔལ་ལྡན
@@ -47,10 +49,3 @@ source_metadata:
       volume_number: 7
       total_pages: 748
       base_file: v007.txt
-ebook_metadata:
-  title: གསུང་འབུམ། ངག་དབང་དཔལ་ལྡན
-  author: ''
-  sku: P007131
-  cover: cover.jpg
-  layers:
-  - pagination
